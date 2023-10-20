@@ -1,5 +1,7 @@
-# PDF-slicer
+# Python-Scripts
 
-Slices pdf page range using the terminal. 
+## macos-delete.py
+- Removes __MACOS Directory from zipped files
 
+## pdf-slicer
 **NOTE** Currently untested. 
